@@ -43,6 +43,11 @@ while True:
     s.send("acknowledgement recived from the server".encode())
 ```
 OUTPUT:
+
+
+
+
+
 ![Screenshot 2024-02-28 160036](https://github.com/shivsujan/2b_SLIDING_WINDOW_PROTOCOL/assets/145633245/f5e237c6-9ccb-4237-8607-96576da9ccfe)
 
 ![Screenshot 2024-02-28 160045](https://github.com/shivsujan/2b_SLIDING_WINDOW_PROTOCOL/assets/145633245/46682860-7b3c-44d2-b513-07466cf349d0)
